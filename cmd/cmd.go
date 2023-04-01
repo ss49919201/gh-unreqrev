@@ -20,5 +20,4 @@ func Run() {
 		return
 	}
 	fmt.Printf("running as %s\n", response.Login)
-
 }
